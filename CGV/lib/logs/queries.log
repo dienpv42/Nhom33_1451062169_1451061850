@@ -1,0 +1,914 @@
+2017-05-24 06:18:31 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-24 07:38:20 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-26 02:46:26 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-26 02:46:26 Query: SELECT * FROM user User     
+2017-05-26 02:51:29 Query: SELECT * FROM user User     
+2017-05-26 02:55:30 Query: SELECT * FROM user User     
+2017-05-26 02:55:31 Query: SELECT * FROM user User     
+2017-05-26 02:55:50 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-26 02:55:50 Query: SELECT * FROM user User     
+2017-05-26 02:55:52 Query: SELECT * FROM user User     
+2017-05-26 02:58:29 Query: SELECT * FROM user User     
+2017-05-26 03:04:23 Query: SELECT * FROM user User     
+2017-05-26 03:05:11 Query: SELECT * FROM user User     
+2017-05-26 03:06:11 Query: SELECT * FROM user User     
+2017-05-26 03:07:23 Query: SELECT * FROM user User     
+2017-05-26 03:14:06 Query: SELECT * FROM user User     
+2017-05-26 03:14:24 Query: SELECT * FROM user User     
+2017-05-26 03:16:45 Query: SELECT * FROM user User     
+2017-05-26 03:17:07 Query: SELECT * FROM user User     
+2017-05-26 03:18:43 Query: SELECT * FROM user User     
+2017-05-26 03:18:59 Query: SELECT * FROM user User     
+2017-05-26 03:19:00 Query: SELECT * FROM user User     
+2017-05-26 03:19:01 Query: SELECT * FROM user User     
+2017-05-26 03:19:02 Query: SELECT * FROM user User     
+2017-05-26 03:20:41 Query: SELECT * FROM user User     
+2017-05-26 03:20:50 Query: SELECT * FROM user User     
+2017-05-26 03:20:56 Query: SELECT * FROM user User     
+2017-05-26 03:20:58 Query: SELECT * FROM user User     
+2017-05-26 03:21:00 Query: SELECT * FROM user User     
+2017-05-26 03:21:55 Query: SELECT * FROM user User     
+2017-05-26 03:21:56 Query: SELECT * FROM user User     
+2017-05-26 03:21:57 Query: SELECT * FROM user User     
+2017-05-26 03:21:58 Query: SELECT * FROM user User     
+2017-05-26 03:22:55 Query: SELECT * FROM user User     
+2017-05-26 03:22:57 Query: SELECT * FROM user User     
+2017-05-26 03:22:59 Query: SELECT * FROM user User     
+2017-05-26 03:23:00 Query: SELECT * FROM user User     
+2017-05-26 03:23:30 Query: SELECT * FROM user User     
+2017-05-26 03:23:32 Query: SELECT * FROM user User     
+2017-05-26 03:23:33 Query: SELECT * FROM user User     
+2017-05-26 03:23:34 Query: SELECT * FROM user User     
+2017-05-26 03:23:34 Query: SELECT * FROM user User     
+2017-05-26 03:23:34 Query: SELECT * FROM user User     
+2017-05-26 03:23:36 Query: SELECT * FROM user User     
+2017-05-26 03:23:37 Query: SELECT * FROM user User     
+2017-05-26 03:23:41 Query: SELECT * FROM user User     
+2017-05-26 03:23:41 Query: SELECT * FROM user User     
+2017-05-26 03:23:41 Query: SELECT * FROM user User     
+2017-05-26 03:24:04 Query: SELECT * FROM user User     
+2017-05-26 03:24:06 Query: SELECT * FROM user User     
+2017-05-26 03:24:07 Query: SELECT * FROM user User     
+2017-05-26 03:24:50 Query: SELECT * FROM user User     
+2017-05-26 03:26:02 Query: SELECT * FROM user User     
+2017-05-26 03:26:14 Query: SELECT * FROM user User     
+2017-05-26 03:26:15 Query: SELECT * FROM user User     
+2017-05-26 03:26:16 Query: SELECT * FROM user User     
+2017-05-26 03:26:17 Query: SELECT * FROM user User     
+2017-05-26 03:26:18 Query: SELECT * FROM user User     
+2017-05-26 03:26:19 Query: SELECT * FROM user User     
+2017-05-26 03:26:19 Query: SELECT * FROM user User     
+2017-05-26 03:26:21 Query: SELECT * FROM user User     
+2017-05-26 03:29:31 Query: SELECT * FROM user User     
+2017-05-26 03:30:20 Query: SELECT * FROM user User     
+2017-05-26 03:30:20 Query: SELECT * FROM user User     
+2017-05-26 03:30:22 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:30:54 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-26 03:30:54 Query: SELECT * FROM user User     
+2017-05-26 03:30:57 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:31:42 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:04 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:13 Query: SELECT * FROM user User     
+2017-05-26 03:34:18 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:35 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:40 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:42 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:47 Query: SELECT * FROM user User     
+2017-05-26 03:34:48 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:51 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:34:53 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:38:32 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:38:33 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:38:33 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 03:39:33 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:39:33 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 03:40:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:40:46 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 03:40:48 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:40:48 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 03:40:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 03:40:51 Query: SELECT * FROM user User     
+2017-05-26 03:40:52 Query: SELECT * FROM user User     
+2017-05-26 03:40:54 Query: SELECT * FROM user User     
+2017-05-26 03:40:57 Query: SELECT * FROM user User     
+2017-05-26 04:19:40 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:19:40 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 04:19:42 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:19:43 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:19:44 Query: SELECT * FROM user User     
+2017-05-26 04:19:45 Query: SELECT * FROM user User     
+2017-05-26 04:19:46 Query: SELECT * FROM user User     
+2017-05-26 04:19:47 Query: SELECT * FROM user User     
+2017-05-26 04:19:47 Query: SELECT * FROM user User     
+2017-05-26 04:19:47 Query: SELECT * FROM user User     
+2017-05-26 04:20:32 Query: SELECT * FROM user User     
+2017-05-26 04:20:33 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:23:14 Query: SELECT * FROM booking Booking     
+2017-05-26 04:23:15 Query: SELECT * FROM booking Booking     
+2017-05-26 04:23:17 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:23:19 Query: SELECT * FROM user User     
+2017-05-26 04:42:12 Query: SELECT * FROM user User     
+2017-05-26 04:42:13 Query: SELECT * FROM user User     
+2017-05-26 04:42:14 Query: SELECT * FROM user User     
+2017-05-26 04:42:17 Query: SELECT * FROM user User     
+2017-05-26 04:42:18 Query: SELECT * FROM user User     
+2017-05-26 04:42:19 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:21 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:22 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:22 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:22 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:22 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:23 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:23 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:23 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:24 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:24 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:25 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:25 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:26 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:26 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:26 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:27 Query: SELECT * FROM user User     
+2017-05-26 04:42:28 Query: SELECT * FROM booking Booking     
+2017-05-26 04:42:56 Query: SELECT * FROM booking Booking     
+2017-05-26 04:43:00 Query: SELECT * FROM booking Booking     
+2017-05-26 04:43:03 Query: SELECT * FROM booking Booking     
+2017-05-26 04:43:05 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:43:05 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 04:43:12 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:43:12 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 04:43:56 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:43:56 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-26 04:43:57 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-26 04:43:59 Query: SELECT * FROM user User     
+2017-05-26 04:44:00 Query: SELECT * FROM user User     
+2017-05-26 04:44:01 Query: SELECT * FROM booking Booking     
+2017-05-29 10:26:30 Query: SELECT * FROM user User   WHERE  email = 'quynhlt42@wru.vn' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-29 10:26:39 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-29 10:26:39 Query: SELECT * FROM user User     
+2017-05-29 10:26:41 Query: SELECT * FROM user User     
+2017-05-29 10:26:42 Query: SELECT * FROM booking Booking     
+2017-05-29 10:34:22 Query: SELECT * FROM booking Booking     
+2017-05-29 10:34:25 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-29 10:34:25 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-29 10:34:30 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-29 10:34:31 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-29 10:34:32 Query: SELECT * FROM booking Booking     
+2017-05-29 10:34:34 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-29 10:34:34 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-29 10:43:22 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-29 10:43:22 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-29 10:43:33 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-29 10:43:33 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-30 07:43:59 Query: SELECT * FROM user User   WHERE  email = 'dienpv42' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-30 07:44:09 Query: SELECT * FROM user User   WHERE  email = '' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-30 07:44:37 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-30 07:44:37 Query: SELECT * FROM user User     
+2017-05-30 07:44:41 Query: SELECT * FROM user User     
+2017-05-30 07:44:42 Query: SELECT * FROM user User     
+2017-05-30 07:44:43 Query: SELECT * FROM booking Booking     
+2017-05-30 07:46:47 Query: SELECT * FROM booking Booking     
+2017-05-30 07:46:48 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 07:46:49 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 07:46:49 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-30 07:46:50 Query: SELECT * FROM user User     
+2017-05-30 09:47:47 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-30 09:47:47 Query: SELECT * FROM user User     
+2017-05-30 09:47:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:55:23 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:55:25 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:55:25 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-30 09:56:07 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:56:07 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-30 09:56:08 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:56:10 Query: SELECT * FROM user User     
+2017-05-30 09:56:13 Query: SELECT * FROM user User     
+2017-05-30 09:56:14 Query: SELECT * FROM booking Booking     
+2017-05-30 09:56:18 Query: SELECT * FROM booking Booking     
+2017-05-30 09:59:06 Query: SELECT * FROM booking Booking     
+2017-05-30 09:59:08 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:59:08 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-30 09:59:14 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:59:14 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-30 09:59:17 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-30 09:59:17 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-30 09:59:19 Query: SELECT * FROM booking Booking     
+2017-05-30 09:59:24 Query: SELECT * FROM booking Booking     
+2017-05-30 09:59:34 Query: SELECT * FROM booking Booking     
+2017-05-30 09:59:36 Query: SELECT * FROM booking Booking     
+2017-05-30 09:59:36 Query: SELECT * FROM user User     
+2017-05-30 09:59:37 Query: SELECT * FROM user User     
+2017-05-30 09:59:38 Query: SELECT * FROM user User     
+2017-05-30 09:59:38 Query: SELECT * FROM user User     
+2017-05-30 09:59:38 Query: SELECT * FROM user User     
+2017-05-30 09:59:39 Query: SELECT * FROM user User     
+2017-05-31 18:05:56 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-05-31 18:05:56 Query: SELECT * FROM user User     
+2017-05-31 18:05:59 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-31 18:05:59 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-31 18:08:41 Query: SELECT * FROM user User     
+2017-05-31 18:08:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-05-31 18:08:46 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-05-31 18:08:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 02:41:41 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-01 02:41:41 Query: SELECT * FROM user User     
+2017-06-01 02:41:44 Query: SELECT * FROM user User     
+2017-06-01 02:41:48 Query: SELECT * FROM user User     
+2017-06-01 02:41:48 Query: SELECT * FROM user User     
+2017-06-01 02:41:48 Query: SELECT * FROM user User     
+2017-06-01 02:42:35 Query: SELECT * FROM user User     
+2017-06-01 02:42:39 Query: SELECT * FROM user User     
+2017-06-01 03:10:41 Query: SELECT * FROM user User     
+2017-06-01 03:11:38 Query: SELECT * FROM user User     
+2017-06-01 03:11:44 Query: SELECT * FROM user User     
+2017-06-01 03:29:56 Query: SELECT * FROM user User     
+2017-06-01 03:32:14 Query: SELECT * FROM user User     
+2017-06-01 03:32:25 Query: SELECT * FROM user User     
+2017-06-01 03:32:48 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-01 03:32:48 Query: SELECT * FROM user User     
+2017-06-01 03:33:41 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-01 03:33:41 Query: SELECT * FROM user User     
+2017-06-01 03:39:40 Query: SELECT * FROM user User     
+2017-06-01 05:55:46 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-01 05:55:46 Query: SELECT * FROM user User     
+2017-06-01 05:55:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 05:55:50 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-01 05:55:52 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 05:55:55 Query: SELECT * FROM user User     
+2017-06-01 05:56:02 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 05:56:38 Query: SELECT * FROM booking Booking     
+2017-06-01 05:56:41 Query: SELECT * FROM booking Booking     
+2017-06-01 05:56:43 Query: SELECT * FROM user User     
+2017-06-01 05:56:44 Query: SELECT * FROM booking Booking     
+2017-06-01 06:24:02 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-01 06:24:02 Query: SELECT * FROM user User     
+2017-06-01 06:24:06 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 06:24:06 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-01 06:24:09 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 06:24:20 Query: SELECT * FROM user User     
+2017-06-01 06:24:52 Query: SELECT * FROM booking Booking     
+2017-06-01 06:43:36 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 06:43:37 Query: SELECT * FROM user User     
+2017-06-01 06:45:52 Query: SELECT * FROM user User     
+2017-06-01 06:45:52 Query: SELECT * FROM user User     
+2017-06-01 06:45:53 Query: SELECT * FROM user User     
+2017-06-01 06:45:53 Query: SELECT * FROM user User     
+2017-06-01 06:46:25 Query: SELECT * FROM user User     
+2017-06-01 06:46:26 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 06:46:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 06:46:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-01 06:46:29 Query: SELECT * FROM user User     
+2017-06-01 06:48:18 Query: SELECT * FROM user User     
+2017-06-01 06:48:18 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:48:18 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:48:43 Query: SELECT * FROM user User     
+2017-06-01 06:48:43 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:48:43 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:48:44 Query: SELECT * FROM user User     
+2017-06-01 06:48:44 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:48:44 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:48:44 Query: SELECT * FROM user User     
+2017-06-01 06:48:44 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:48:44 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:48:44 Query: SELECT * FROM user User     
+2017-06-01 06:48:44 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:48:44 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:51:23 Query: SELECT * FROM user User     
+2017-06-01 06:51:23 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:51:23 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:51:23 Query: SELECT * FROM user User     
+2017-06-01 06:51:23 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:51:23 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:51:24 Query: SELECT * FROM user User     
+2017-06-01 06:51:24 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:51:24 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:51:24 Query: SELECT * FROM user User     
+2017-06-01 06:51:24 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:51:24 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-01 06:51:25 Query: SELECT * FROM user User     
+2017-06-01 06:51:25 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-01 06:51:25 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 02:37:42 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-02 02:37:42 Query: SELECT * FROM user User     
+2017-06-02 02:37:44 Query: SELECT * FROM user User     
+2017-06-02 02:37:45 Query: SELECT * FROM user User     
+2017-06-02 02:37:46 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 02:37:46 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 02:40:01 Query: SELECT * FROM user User     
+2017-06-02 02:40:01 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 02:40:01 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:29:25 Query: SELECT * FROM user User     
+2017-06-02 03:29:25 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:29:25 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:29:27 Query: SELECT * FROM user User     
+2017-06-02 03:29:27 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:29:27 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:29:27 Query: SELECT * FROM user User     
+2017-06-02 03:29:27 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:29:27 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:29:28 Query: SELECT * FROM user User     
+2017-06-02 03:29:28 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:29:28 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:29:28 Query: SELECT * FROM user User     
+2017-06-02 03:29:28 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:29:28 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:29:28 Query: SELECT * FROM user User     
+2017-06-02 03:29:28 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:29:28 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:30:27 Query: SELECT * FROM user User     
+2017-06-02 03:30:27 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:30:27 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:30:28 Query: SELECT * FROM user User     
+2017-06-02 03:30:28 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:30:28 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:30:28 Query: SELECT * FROM user User     
+2017-06-02 03:30:28 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:30:28 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:30:28 Query: SELECT * FROM user User     
+2017-06-02 03:30:28 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:30:28 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-02 03:30:29 Query: SELECT * FROM user User     
+2017-06-02 03:30:30 Query: SELECT * FROM user User     
+2017-06-02 03:30:30 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-02 03:30:30 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-05 09:35:39 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-05 09:35:39 Query: SELECT * FROM user User     
+2017-06-05 09:37:03 Query: SELECT * FROM user User     
+2017-06-05 09:37:03 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-05 09:37:03 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-05 09:41:40 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-05 09:41:40 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-05 10:00:44 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-05 10:00:44 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-05 10:00:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-05 10:00:46 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-05 10:00:48 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-05 10:00:48 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-05 10:00:49 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-05 10:00:49 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-05 10:00:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-05 18:48:42 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-05 18:48:42 Query: SELECT * FROM user User     
+2017-06-06 09:50:25 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-06 09:50:25 Query: SELECT * FROM user User     
+2017-06-06 09:50:48 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 09:50:52 Query: SELECT * FROM user User     
+2017-06-06 09:50:56 Query: SELECT * FROM user User     
+2017-06-06 09:50:56 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-06 09:50:56 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-06 09:52:53 Query: SELECT * FROM user User     
+2017-06-06 09:52:53 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-06 09:52:53 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-06 09:56:59 Query: SELECT * FROM user User     
+2017-06-06 09:56:59 Query: SELECT * FROM booking Booking  INNER JOIN user ON booking.user = user.id     
+2017-06-06 09:56:59 Query: 1054: Unknown column 'booking.user' in 'on clause'
+2017-06-06 10:02:12 Query: SELECT * FROM user User     
+2017-06-06 10:02:12 Query: SELECT * FROM booking Booking     
+2017-06-06 10:02:13 Query: SELECT * FROM user User     
+2017-06-06 10:02:13 Query: SELECT * FROM booking Booking     
+2017-06-06 10:07:05 Query: SELECT * FROM user User     
+2017-06-06 10:07:05 Query: SELECT * FROM booking Booking     
+2017-06-06 10:09:11 Query: SELECT * FROM user User     
+2017-06-06 10:09:11 Query: SELECT * FROM booking Booking     
+2017-06-06 10:26:58 Query: SELECT * FROM booking Booking     
+2017-06-06 10:27:00 Query: SELECT * FROM booking Booking     
+2017-06-06 10:27:48 Query: SELECT * FROM booking Booking     
+2017-06-06 10:28:04 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:28:04 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:28:06 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:28:22 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:28:22 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:28:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:28:28 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:28:39 Query: SELECT * FROM user User     
+2017-06-06 10:28:40 Query: SELECT * FROM booking Booking     
+2017-06-06 10:28:44 Query: SELECT * FROM booking Booking     
+2017-06-06 10:30:21 Query: SELECT * FROM user User   WHERE  email = 'longtq42@wru.vn' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-06 10:30:30 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-06 10:30:30 Query: SELECT * FROM user User     
+2017-06-06 10:30:39 Query: SELECT * FROM user User     
+2017-06-06 10:30:40 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:30:41 Query: SELECT * FROM user User     
+2017-06-06 10:30:42 Query: SELECT * FROM user User     
+2017-06-06 10:30:43 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:30:45 Query: SELECT * FROM booking Booking     
+2017-06-06 10:31:04 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:06 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:06 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:31:07 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:08 Query: SELECT * FROM booking Booking     
+2017-06-06 10:31:11 Query: SELECT * FROM user User     
+2017-06-06 10:31:12 Query: SELECT * FROM user User     
+2017-06-06 10:31:13 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:13 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:14 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:14 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:31:16 Query: SELECT * FROM user User     
+2017-06-06 10:31:17 Query: SELECT * FROM booking Booking     
+2017-06-06 10:31:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:28 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:31:33 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:31:33 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:33:48 Query: SELECT * FROM booking Booking     
+2017-06-06 10:34:28 Query: SELECT * FROM booking Booking     
+2017-06-06 10:34:32 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:34:41 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:34:41 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:34:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:34:50 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:34:57 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:34:57 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:35:00 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:35:00 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:35:03 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:35:03 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:40:34 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:40:34 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:40:35 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:40:35 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:40:35 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:40:43 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:40:43 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:40:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:40:46 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:40:46 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:42:26 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:42:26 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:42:26 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:42:36 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:42:36 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-06'
+2017-06-06 10:42:36 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:42:36')
+2017-06-06 10:42:36 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:42:36 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-07'
+2017-06-06 10:42:37 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-07', '09:00', '2017-06-06 10:42:36')
+2017-06-06 10:42:37 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:42:37 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-08'
+2017-06-06 10:42:37 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-08', '09:00', '2017-06-06 10:42:37')
+2017-06-06 10:42:37 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:42:37 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-09'
+2017-06-06 10:42:37 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-09', '09:00', '2017-06-06 10:42:37')
+2017-06-06 10:42:37 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:42:37 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-10'
+2017-06-06 10:42:37 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-10', '09:00', '2017-06-06 10:42:37')
+2017-06-06 10:42:37 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:42:37 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:42:37 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:42:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:42:37 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:42:39 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:42:39 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:42:39 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:44:56 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:44:56 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:44:56 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:45:14 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:45:14 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-06'
+2017-06-06 10:45:14 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:45:14')
+2017-06-06 10:45:14 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:45:14 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-07'
+2017-06-06 10:45:15 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-07', '09:00', '2017-06-06 10:45:14')
+2017-06-06 10:45:15 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:45:15 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-08'
+2017-06-06 10:45:15 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-08', '09:00', '2017-06-06 10:45:15')
+2017-06-06 10:45:15 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:45:15 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-09'
+2017-06-06 10:45:15 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-09', '09:00', '2017-06-06 10:45:15')
+2017-06-06 10:45:15 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:45:15 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-10'
+2017-06-06 10:45:15 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-10', '09:30', '2017-06-06 10:45:15')
+2017-06-06 10:45:15 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:45:15 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:45:15 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:45:15 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:45:15 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:45:17 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:45:17 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:45:17 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:50:47 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:50:47 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:50:47 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:51:54 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:51:54 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-06'
+2017-06-06 10:51:54 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:51:54')
+2017-06-06 10:51:54 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:51:54 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:51:54')
+2017-06-06 10:51:54 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:51:54 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:51:54')
+2017-06-06 10:51:54 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:51:54 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-07'
+2017-06-06 10:51:54 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-07', '09:00', '2017-06-06 10:51:54')
+2017-06-06 10:51:54 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:51:54 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-08'
+2017-06-06 10:51:54 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-08', '09:00', '2017-06-06 10:51:54')
+2017-06-06 10:51:54 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:51:54 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-09'
+2017-06-06 10:51:54 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-09', '09:00', '2017-06-06 10:51:54')
+2017-06-06 10:51:54 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:51:54 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-10'
+2017-06-06 10:51:55 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-10', '09:30', '2017-06-06 10:51:54')
+2017-06-06 10:51:55 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:51:55 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:51:55 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:51:55 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:51:55 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:51:56 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:51:56 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:51:56 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:52:16 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:52:16 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-06'
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:16 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-07'
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-07', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:16 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-08'
+2017-06-06 10:52:16 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-08', '09:00', '2017-06-06 10:52:16')
+2017-06-06 10:52:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:17 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-09'
+2017-06-06 10:52:17 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-09', '09:00', '2017-06-06 10:52:17')
+2017-06-06 10:52:17 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:17 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-10'
+2017-06-06 10:52:17 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-10', '09:30', '2017-06-06 10:52:17')
+2017-06-06 10:52:17 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:52:17 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:52:17 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:52:17 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:52:17 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:52:18 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:52:18 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:52:18 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:54:01 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:54:01 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:54:01 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:54:08 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:54:08 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-06'
+2017-06-06 10:54:08 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:54:08')
+2017-06-06 10:54:08 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:54:09 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:54:08')
+2017-06-06 10:54:09 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:54:09 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-07'
+2017-06-06 10:54:09 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-07', '09:00', '2017-06-06 10:54:09')
+2017-06-06 10:54:09 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:54:09 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-08'
+2017-06-06 10:54:09 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-08', '09:00', '2017-06-06 10:54:09')
+2017-06-06 10:54:09 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:54:09 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-09'
+2017-06-06 10:54:09 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-09', '09:00', '2017-06-06 10:54:09')
+2017-06-06 10:54:09 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:54:09 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-10'
+2017-06-06 10:54:09 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-10', '09:30', '2017-06-06 10:54:09')
+2017-06-06 10:54:09 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:54:09 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-11'
+2017-06-06 10:54:09 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-11', '13:00', '2017-06-06 10:54:09')
+2017-06-06 10:54:09 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:54:09 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:54:09 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:54:09 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:54:09 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:54:11 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:54:11 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:54:11 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:55:47 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:55:47 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-06'
+2017-06-06 10:55:47 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:55:47')
+2017-06-06 10:55:47 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:55:47 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-06', '09:00', '2017-06-06 10:55:47')
+2017-06-06 10:55:47 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:55:47 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-07'
+2017-06-06 10:55:47 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-07', '09:00', '2017-06-06 10:55:47')
+2017-06-06 10:55:47 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:55:47 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-08'
+2017-06-06 10:55:47 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-08', '09:00', '2017-06-06 10:55:47')
+2017-06-06 10:55:47 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:55:47 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-09'
+2017-06-06 10:55:47 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-09', '09:00', '2017-06-06 10:55:47')
+2017-06-06 10:55:47 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:55:48 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-10'
+2017-06-06 10:55:48 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-10', '09:30', '2017-06-06 10:55:48')
+2017-06-06 10:55:48 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:55:48 Query: DELETE  FROM calendar  WHERE  movie_id = '11' AND  day = '2017-06-11'
+2017-06-06 10:55:48 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('11', '2017-06-11', '13:00', '2017-06-06 10:55:48')
+2017-06-06 10:55:48 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 10:55:48 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '11'   
+2017-06-06 10:55:48 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '11'   
+2017-06-06 10:55:48 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:55:48 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:55:51 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:55:51 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:56:35 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:56:35 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:56:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:56:37 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:56:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:56:37 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:56:38 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:56:38 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:58:42 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:58:42 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:59:04 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:59:04 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:59:20 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:59:20 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:59:20 Query: UPDATE movie SET title = 'Minion', open_date = '2017-06-30', description = 'phim hay aaaaaaaaaaa', trial_url = 'watch?v=zd3aLG5RS1w', duration = '90', director = 'Dien', actor = 'jadsj sajdsaj', language = 'vietnam', country = 'AF', category_id = '1', created = '2017-06-06 10:59:20', modified = '2017-06-06 10:59:20'  WHERE  id = '11'
+2017-06-06 10:59:20 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:59:20 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:59:27 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:59:27 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:59:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:59:37 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '11'   
+2017-06-06 10:59:37 Query: UPDATE movie SET title = 'Minion', open_date = '2017-06-30', description = 'phim hay aaaaaaaaaaa', trial_url = 'watch?v=zd3aLG5RS1w', duration = '90', director = 'Dien', actor = 'jadsj sajdsaj', language = 'vietnam', country = 'VN', category_id = '1', created = '2017-06-06 10:59:37', modified = '2017-06-06 10:59:37'  WHERE  id = '11'
+2017-06-06 10:59:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:59:37 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 10:59:45 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 10:59:45 Query: DELETE  FROM movie  WHERE  movie.id = '11'
+2017-06-06 11:01:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:01:46 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:01:47 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:01:54 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:02:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:03:16 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:03:16 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-07-02', 'aaaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'jadsj sajdsaj', 'Việt Nam', 'VN', '1', '2017-06-06 11:03:16', '2017-06-06 11:03:16')
+2017-06-06 11:03:16 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:03:26 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:03:26 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:05:20 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:05:20 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:06:05 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:06:05 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:06:07 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:06:22 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:06:24 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:06:24 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:06:25 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:06:27 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:08:06 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:08:06 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:08:08 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:08:08 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:08:10 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:08:10 Query: DELETE  FROM movie  WHERE  movie.id = '12'
+2017-06-06 11:08:17 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:08:17 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:08:19 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:08:41 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:08:41 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'aaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'jadsj sajdsaj', 'Việt Nam', 'DE', '1', '2017-06-06 11:08:41', '2017-06-06 11:08:41')
+2017-06-06 11:08:41 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:10:32 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:34 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:34 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'aaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'jadsj sajdsaj', 'Việt Nam', 'DE', '1', '2017-06-06 11:10:34', '2017-06-06 11:10:34')
+2017-06-06 11:10:34 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:10:34 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:34 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:10:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:38 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:38 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'aaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'jadsj sajdsaj', 'Việt Nam', 'DE', '1', '2017-06-06 11:10:38', '2017-06-06 11:10:38')
+2017-06-06 11:10:38 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:10:38 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:38 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:10:40 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:41 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:42 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'aaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'jadsj sajdsaj', 'Việt Nam', 'DE', '1', '2017-06-06 11:10:41', '2017-06-06 11:10:41')
+2017-06-06 11:10:42 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:10:42 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:42 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:10:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:46 Query: DELETE  FROM movie  WHERE  movie.id = '16'
+2017-06-06 11:10:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:46 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:10:49 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:49 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '13'   
+2017-06-06 11:10:49 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '13'   
+2017-06-06 11:10:51 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:51 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:10:55 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:55 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:10:56 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:58 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:58 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'aaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'jadsj sajdsaj', 'Việt Nam', 'DE', '1', '2017-06-06 11:10:58', '2017-06-06 11:10:58')
+2017-06-06 11:10:58 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:10:58 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:10:58 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:11:00 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:11:01 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:11:01 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'aaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'jadsj sajdsaj', 'Việt Nam', 'DE', '1', '2017-06-06 11:11:01', '2017-06-06 11:11:01')
+2017-06-06 11:11:01 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:11:01 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:11:01 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:11:10 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:11:58 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:12:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:12:28 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'aaaaaaaaaaaaaaaaaaaaaaaa', 'watch?v=zd3aLG5RS1w', '100', 'longaaaaaa', 'jadsj sajdsaj', 'vietnam', 'AF', '1', '2017-06-06 11:12:28', '2017-06-06 11:12:28')
+2017-06-06 11:12:28 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:12:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:12:28 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:12:35 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:12:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:14:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:14:55 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:15:28 Query: SELECT * FROM user User   WHERE  email = 'admin@gmail.com' AND  password = '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'   
+2017-06-06 11:15:28 Query: SELECT * FROM user User     
+2017-06-06 11:15:30 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:15:49 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:15:49 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:15:51 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:15:51 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:16:18 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:16:18 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:16:31 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:16:31 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:16:33 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:16:38 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:18:40 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:18:45 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:18:48 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:18:50 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:19:40 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:19:43 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:19:44 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:24:09 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:24:11 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:24:29 Query: INSERT INTO movie_category (title, created, modified) VALUES ('Tình Cảm', '2017-06-06 11:24:29', '2017-06-06 11:24:29')
+2017-06-06 11:24:29 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:24:29 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:24:34 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:24:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:24:39 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:29:10 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:29:13 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:29:14 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:30:05 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:30:23 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:30:26 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:30:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:30:28 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:30:29 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:30:51 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:30:53 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:30:53 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:30:55 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:30:55 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '13'   
+2017-06-06 11:30:55 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '13'   
+2017-06-06 11:31:02 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:31:02 Query: DELETE  FROM calendar  WHERE  movie_id = '13' AND  day = '2017-06-06'
+2017-06-06 11:31:02 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('13', '2017-06-06', '09:00', '2017-06-06 11:31:02')
+2017-06-06 11:31:02 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:31:02 Query: INSERT INTO calendar (movie_id, day, time, created) VALUES ('13', '2017-06-06', '09:00', '2017-06-06 11:31:02')
+2017-06-06 11:31:02 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:31:02 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '13'   
+2017-06-06 11:31:02 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '13'   
+2017-06-06 11:31:02 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:31:02 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:31:04 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:31:04 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id   WHERE  Movie.id = '13'   
+2017-06-06 11:31:04 Query: SELECT * FROM calendar Calendar   WHERE  movie_id = '13'   
+2017-06-06 11:31:08 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:31:08 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:31:09 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:31:09 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:31:33 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:31:33 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:32:08 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:32:08 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:32:13 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:32:13 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:32:57 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:32:57 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:32:59 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:33:07 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:33:07 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:33:09 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:33:09 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:33:36 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:33:36 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '13'   
+2017-06-06 11:33:48 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:33:49 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '1'   
+2017-06-06 11:33:51 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:33:53 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:33:53 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:37:32 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:37:33 Query: DELETE  FROM movie_category  WHERE  movie_category.id = '1'
+2017-06-06 11:37:34 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:37:49 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:37:49 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:38:07 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:38:08 Query: DELETE  FROM movie_category  WHERE  movie_category.id = '2'
+2017-06-06 11:38:08 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:38:11 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:38:11 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:38:12 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:38:14 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:38:16 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:38:16 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:41:02 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:02 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:41:04 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:07 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:07 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:41:08 Query: SELECT * FROM user User     
+2017-06-06 11:41:10 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:10 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:41:12 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:13 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:13 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:41:15 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:22 Query: INSERT INTO movie_category (title, created, modified) VALUES ('Hanh Dong', '2017-06-06 11:41:22', '2017-06-06 11:41:22')
+2017-06-06 11:41:22 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:41:22 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:25 Query: DELETE  FROM movie_category  WHERE  movie_category.id = '3'
+2017-06-06 11:41:25 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:29 Query: INSERT INTO movie_category (title, created, modified) VALUES ('Hành Động', '2017-06-06 11:41:29', '2017-06-06 11:41:29')
+2017-06-06 11:41:29 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:41:29 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:36 Query: INSERT INTO movie_category (title, created, modified) VALUES ('Tình Cảm', '2017-06-06 11:41:35', '2017-06-06 11:41:35')
+2017-06-06 11:41:36 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:41:36 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:47 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:49 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:41:49 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:41:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:28 Query: INSERT INTO movie (title, open_date, description, trial_url, duration, director, actor, language, country, category_id, created, modified) VALUES ('Minion', '2017-06-30', 'Phim nay rat hay', 'watch?v=zd3aLG5RS1w', '100', 'Diện', 'assadsa', 'Việt Nam', 'AF', '4', '2017-06-06 11:42:28', '2017-06-06 11:42:28')
+2017-06-06 11:42:28 Query: SELECT LAST_INSERT_ID() AS insertID
+2017-06-06 11:42:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:28 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:42:34 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:35 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:35 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:42:39 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:41 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:41 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:42:43 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:43 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '20'   
+2017-06-06 11:42:47 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:42:47 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:42:50 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:43:05 Query: SELECT * FROM user User     
+2017-06-06 11:43:06 Query: SELECT * FROM user User     
+2017-06-06 11:43:10 Query: SELECT * FROM booking Booking     
+2017-06-06 11:45:14 Query: SELECT * FROM booking Booking     
+2017-06-06 11:45:15 Query: SELECT * FROM booking Booking     
+2017-06-06 11:45:17 Query: DELETE  FROM booking  WHERE  booking.id = '1'
+2017-06-06 11:45:17 Query: SELECT * FROM booking Booking     
+2017-06-06 11:45:20 Query: SELECT * FROM booking Booking     
+2017-06-06 11:45:25 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:45:25 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:45:28 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:45:28 Query: SELECT * FROM user User     
+2017-06-06 11:46:03 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:03 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:46:06 Query: SELECT * FROM user User     
+2017-06-06 11:46:08 Query: SELECT * FROM booking Booking     
+2017-06-06 11:46:09 Query: SELECT * FROM user User     
+2017-06-06 11:46:17 Query: SELECT * FROM booking Booking     
+2017-06-06 11:46:18 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:21 Query: SELECT * FROM movie_category MovieCategory   WHERE  MovieCategory.id = '4'   
+2017-06-06 11:46:23 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:25 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:25 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:46:28 Query: SELECT * FROM booking Booking     
+2017-06-06 11:46:37 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:37 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:46:39 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:41 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:41 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:46:42 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:42 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:46:43 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:46 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:46 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:46:47 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:47 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:46:49 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:51 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:46:51 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:47:02 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:47:02 Query: SELECT * FROM movie Movie   WHERE  Movie.id = '20'   
+2017-06-06 11:47:12 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:47:12 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:47:14 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:47:19 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:47:19 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:48:27 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:48:31 Query: SELECT * FROM booking Booking     
+2017-06-06 11:48:32 Query: SELECT * FROM user User     
+2017-06-06 11:48:35 Query: SELECT * FROM booking Booking     
+2017-06-06 11:49:05 Query: SELECT * FROM booking Booking     
+2017-06-06 11:49:50 Query: SELECT * FROM user User     
+2017-06-06 11:49:52 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:49:52 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:49:53 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:49:54 Query: SELECT * FROM user User     
+2017-06-06 11:49:55 Query: SELECT * FROM booking Booking     
+2017-06-06 11:59:05 Query: SELECT * FROM movie_category MovieCategory     
+2017-06-06 11:59:05 Query: SELECT * FROM movie Movie  INNER JOIN movie_category ON movie.category_id = movie_category.id     
+2017-06-06 11:59:09 Query: SELECT * FROM movie_category MovieCategory     
